@@ -1,55 +1,44 @@
-# JotIt-App
+# 🗂️ JotIt-App
 
-A cloud-native note-taking app built on Azure and AWS with full system design principles. It will be designed using real-world system design concepts. Built on both Azure and AWS cloud platforms using:
+**JotIt-App** is a simple and scalable notes-taking application designed to demonstrate key principles of cloud system design, GitHub project management, and DevOps fundamentals.
 
-- Azure Static Web Apps / AWS S3
-- Azure Functions / AWS Lambda
-- Cosmos DB / DynamoDB
-- Azure AD B2C / Amazon Cognito
-- GitHub Actions CI/CD
-- Cloud Monitoring & Auto Scaling
+This is my first project in a hands-on, portfolio-building journey where I will learn and apply real-world cloud architecture using **AWS**, **Azure**, and **GitHub**.
 
 
-### Why this project?
 
-This is a practical learning project to master:
-- Full System Design (Scalability, Reliability, Fault-Tolerance)
-- Serverless Architecture
-- GitHub Integration & CI/CD
-- Azure vs AWS cloud services comparison
-- Real-world deployment workflows
+## 🧠 What I'm Learning
 
-
-### Live Demo (Coming Soon)
-
-> Azure App: [https://jotit-azure.example.com](#)  
-> AWS App: [https://jotit-aws.example.com](#)
+- Cloud System Design (AWS & Azure)
+- Git & GitHub workflow
+- Version control and collaboration
+- DevOps fundamentals
+- Infrastructure planning & documentation
+- GitHub Project Boards and Issues
 
 
-### Cloud Architecture (Work in Progress)
 
-![Architecture Diagram](architecture.png)
+## 💡 Technologies & Tools
 
-### Tech Stack
-
-- **Frontend:** HTML/CSS/JS (Later React)
-- **Backend:** Node.js (Azure Functions + AWS Lambda)
-- **Database:** CosmosDB / DynamoDB
-- **CI/CD:** GitHub Actions
-- **Auth:** Azure AD B2C / Cognito
-- **Monitoring:** Azure Monitor / CloudWatch
+- Git & GitHub
+- Visual Studio Code
+- Markdown & README formatting
+- (Soon) AWS EC2, S3, IAM, Azure App Services, etc.
 
 
-### Status
 
-- [x] Project Repo Created  
-- [ ] Frontend Setup  
-- [ ] Backend APIs  
-- [ ] Database Integration  
-- [ ] Authentication  
-- [ ] CI/CD Pipelines  
-- [ ] Monitoring & Logging  
-- [ ] Final Deployment
+## 📌 Progress Roadmap
+
+- ✅ Setup local Git & GitHub repo
+- ✅ Write README.md
+- 🔜 Add GitHub Project Board
+- 🔜 Begin cloud system design use cases (Day 1)
 
 
-This is part of my cloud system design journey. Follow along or fork this project!
+## 🙋‍♂️ Author
+
+**Andrew Ivi**  
+[LinkedIn](www.linkedin.com/in/cleaandrew-ivi-b725784)  
+📫 aandrewivi@gmail.com
+
+
+> This project is part of my system design & cloud portfolio. More coming soon!
